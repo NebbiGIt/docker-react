@@ -10,7 +10,7 @@ class App extends Component {
 					<img src={logo} className="App-logo" alt="logo" />
 					<p>Hejsan</p>
 					<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-						Learn Rsdeact
+						I was changed on the Feature branch.
 					</a>
 				</header>
 			</div>
